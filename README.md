@@ -1,4 +1,7 @@
 # CatFacts
+
+THIS IS FOR A JOKE/PRANK DONT TAKE IT SERIOUS
+
 Overview
   Windows service to query web api for a random cat fact. Convert the fact from text to speach. Basic audio controls to ensure the person hears it.
 
