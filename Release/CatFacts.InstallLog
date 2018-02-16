@@ -1,0 +1,160 @@
+﻿Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Service SpeakRandomFact has been successfully installed.
+Creating EventLog source SpeakRandomFact in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Attempt to stop service SpeakRandomFact.
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Warning: The source SpeakRandomFact is not registered on the local machine.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Attempt to stop service SpeakRandomFact.
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Warning: The source SpeakRandomFact is not registered on the local machine.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Attempt to stop service SpeakRandomFact.
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Service SpeakRandomFact has been successfully installed.
+Creating EventLog source SpeakRandomFact in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Service SpeakRandomFact has been successfully installed.
+Creating EventLog source SpeakRandomFact in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Service SpeakRandomFact has been successfully installed.
+Creating EventLog source SpeakRandomFact in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Creating EventLog source SpeakRandomFact in log Application...
+Rolling back assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Restoring event log to previous state for source SpeakRandomFact.
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SpeakRandomFact...
+Service SpeakRandomFact has been successfully installed.
+Creating EventLog source SpeakRandomFact in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SpeakRandomFact.
+Service SpeakRandomFact is being removed from the system...
+Service SpeakRandomFact was successfully removed from the system.
+Installing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Installing service SuperImportantDontStop...
+Service SuperImportantDontStop has been successfully installed.
+Creating EventLog source SuperImportantDontStop in log Application...
+Committing assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Uninstalling assembly 'D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.InstallLog
+   assemblypath = D:\VisualStudio\Projects\CatFacts\CatFacts\bin\Release\CatFacts.exe
+Removing EventLog source SuperImportantDontStop.
+Service SuperImportantDontStop is being removed from the system...
+Service SuperImportantDontStop was successfully removed from the system.
